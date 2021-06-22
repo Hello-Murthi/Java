@@ -6,3 +6,39 @@ For example phone call, we don't know the internal processing.
 In Java, we use abstract class and interface to achieve abstraction.
 
 
+
+
+2 ways to implement 
+
+1. Abstract class
+2. Interface
+
+
+
+
+abstract class Bike{  
+  abstract void run();  
+}  
+class Honda4 extends Bike{  
+void run(){System.out.println("running safely");}  
+public static void main(String args[]){  
+ Bike obj = new Honda4();  
+ obj.run();  
+}  
+} 
+
+
+
+An interface in Java is a blueprint of a class. To achieve Abstraction
+
+interface printable{  
+void print();  
+}  
+class A6 implements printable{  
+public void print(){System.out.println("Hello");}  
+  
+public static void main(String args[]){  
+A6 obj = new A6();  
+obj.print();  
+ }  
+}  

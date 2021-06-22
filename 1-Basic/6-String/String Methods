@@ -1,0 +1,63 @@
+1. charAt(i)
+	Returns char at Ith place
+
+2. compareTo()
+	Compare strings
+
+	if s1 > s2, it returns positive number  
+	if s1 < s2, it returns negative number  
+	if s1 == s2, it returns 0  
+
+3. concat()
+	combines specified string at the end of this string.
+
+4. contains()
+	searches the sequence of characters in this string. It returns true if sequence of char values are found in this string otherwise returns false.
+
+5. endsWith() 
+	method checks if this string ends with given suffix.
+
+6. equals() 
+	method compares the two given strings based on the content of the string. If any character is not matched, it returns false. If all characters are matched, it returns true.
+
+7. equalsIgnoreCase()
+	method compares the two given strings on the basis of content of the string irrespective of case of the string.
+
+8. indexOf()
+	returns index of given character value or substring. If it is not found, it returns -1. The index counter starts from zero.
+
+9. isEmpty()
+	checks if this string is empty or not. It returns true, if length of string is 0 otherwise false.
+
+10. lastIndexOf()
+	returns last index of the given character value or substring. If it is not found, it returns -1. 
+
+11. length() 
+	length of the string.
+
+12. replace() 
+	method returns a string replacing all the old char to new char.
+
+13. replaceAll()
+	returns a string replacing all the sequence of characters matching regex and replacement string.
+
+14. split()
+	 splits this string against given regular expression and returns a char array.
+
+15. startsWith()
+	checks if this string starts with given prefix. It returns true if this string starts with given prefix else returns false.
+
+16. substring()
+	returns a part of the string.
+
+17. toCharArray()
+	converts this string into character array
+
+18. toLowerCase()
+	returns the string in lowercase letter
+
+19. toUpperCase()
+	returns the string in uppercase letter
+
+20. trim()
+	eliminates leading and trailing spaces

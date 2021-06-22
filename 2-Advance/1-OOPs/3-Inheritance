@@ -1,3 +1,37 @@
 When one object acquires all the properties and behaviors of a parent object, it is known as inheritance. 
 
 It provides code reusability. It is used to achieve runtime polymorphism.
+
+
+
+Why use inheritance in java
+	For Method Overriding (so runtime polymorphism can be achieved).
+	For Code Reusability.
+
+
+Ex:
+
+class Employee{  
+ float salary=40000;  
+}  
+class Programmer extends Employee{  
+ int bonus=10000;  
+ public static void main(String args[]){  
+   Programmer p=new Programmer();  
+   System.out.println("Programmer salary is:"+p.salary);  
+   System.out.println("Bonus of Programmer is:"+p.bonus);  
+}  
+}  
+
+
+
+Types of inheritance
+
+	1. Single
+	2. Multi level
+	3. Hierarchical
+
+
+Note: Multiple inheritance is not supported in Java through class.
+
+When one class inherits multiple classes, it is known as multiple inheritance. 

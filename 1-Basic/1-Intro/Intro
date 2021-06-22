@@ -1,0 +1,36 @@
+Features of Java
+
+Simple
+Object-Oriented
+Portable
+Platform independent
+Secured
+Robust
+Architecture neutral
+Interpreted
+High Performance
+Multithreaded
+Distributed
+Dynamic
+
+
+
+Syntax:
+
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
+
+
+
+Comments:
+
+// Single line
+
+/*
+	Multiline
+*/
+
+

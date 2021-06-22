@@ -1,0 +1,22 @@
+Variable is a name of memory location or a container which holds value with it's data type
+
+Ex:
+int a = 10;
+
+
+
+3 types of variables in java: 
+	Local
+		A variable declared inside the body of the method is called local variable
+
+	Instance 
+		A variable declared inside the class but outside the body of the method
+
+	Static
+		Declared as static is called static variable. 
+		You can create a single copy of static variable and share among all the instances of the class.
+
+2 types of data types in Java
+	Primitive 
+	Non-primitive.
+

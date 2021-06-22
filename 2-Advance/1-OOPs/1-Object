@@ -1,0 +1,9 @@
+Object 
+Real-world entity such as a pen, chair, table, computer, watch, etc. which has state and behaviour
+
+An Object can be defined as an instance of a class.
+An object contains an address and takes up some space in memory.
+
+OOPs:
+Is a methodology or paradigm to design a program using classes and objects. 
+It simplifies software development and maintenance by providing some concepts:

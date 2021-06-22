@@ -25,21 +25,80 @@ Types of Java Applications
 
 
 
+Java is portable, simple and secure programming language - that's all
+
+
+
 Features of Java
 
-Simple
-Object-Oriented
-Portable
-Platform independent
-Secured
-Robust
-Architecture neutral
-Interpreted
-High Performance
-Multithreaded
-Distributed
-Dynamic
+* Simple
 
+
+* Object-Oriented
+
+  Object-oriented means we organize our software as a combination of different types of objects that incorporates both data and behavior.
+
+  OOPs is a methodology that simplifies software development and maintenance by providing some rules.
+
+
+  Basic concepts of OOPs are:
+
+  Object
+  Class
+  Inheritance
+  Polymorphism
+  Abstraction
+  Encapsulation
+
+
+* Portable
+
+  Java is portable because it facilitates you to carry the Java bytecode to any platform. 
+
+
+* Platform independent
+  
+  Write Once, Run Anywhere
+
+  JVM of that OS can interpret byte code
+
+
+* Secured
+
+  Java is best known for its security. With Java, we can develop virus-free systems.
+
+
+* Robust
+
+
+* Multithreaded
+
+
+
+
+
+
+
+JVM, JRE, and JDK are platform dependent because the configuration of each OS is different from each other. However, Java is platform independent.
+
+
+JVM
+Provides a runtime environment in which Java bytecode can be executed
+  
+  Loads code
+  Verifies code
+  Executes code
+
+JRE
+Java Runtime Environment is a set of software tools which are used for developing Java applications. It is used to provide the runtime environment.
+
+It contains a set of libraries + other files that JVM uses at runtime.
+
+
+JDK
+JDK is a software development environment which is used to develop Java applications
+
+It contains JRE + development tools.
 
 
 

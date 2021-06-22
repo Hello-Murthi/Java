@@ -1,0 +1,14 @@
+The static keyword in Java is used for memory management mainly.
+
+The static variable can be used to refer to the common property of all objects
+
+The static variable gets memory only once in the class area at the time of class loading.
+
+
+
+
+
+
+This Keyword
+
+this is a reference variable that refers to the current object.
